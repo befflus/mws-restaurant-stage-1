@@ -5,7 +5,7 @@
 For the **Restaurant Reviews** project [a static webpage](https://github.com/udacity/mws-restaurant-stage-1) was converted into a mobile-ready web application. I had to take a static design that lacked accessibility and converted the design to be responsive on different sized displays and accessible for screen reader use. I had to also add a service worker to create a seamless offline experience for the users.
 
 ## Run Application on localhost
-1. Download [Git]()
+1. Download [Git](https://git-scm.com/downloads)
 2. Open *__command prompt__* (windows) or *__terminal__* (mac)
 3. Navigate to desired directory in *__command prompt__* (windows) or *__terminal__* (mac)
 4. Run the following command: 

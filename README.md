@@ -23,3 +23,10 @@ For the **Restaurant Reviews** project [a static webpage](https://github.com/uda
 
 
 
+## Attributions
+
+* Lessons by Udacity on serviceworkers
+* https://www.youtube.com/watch?v=jsGs9z7TuyY Walkthrough of the project
+* https://developer.mozilla.org/en-US/ 
+* https://www.w3schools.com
+
